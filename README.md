@@ -15,8 +15,9 @@ Kamu bisa custom warna background, judul, sub judul, dan paragraf sesuai keingin
 
 ## 🚀 Cara Pakai
 Clone repository ini:
-`bash
+```bash
 git clone https://github.com/d4nughst999/d4nughst999.git
+
 cd d4nughst999
 
 Kasih permission dan jalankan:
