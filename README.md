@@ -16,28 +16,28 @@ Kamu bisa custom warna background, judul, sub judul, dan paragraf sesuai keingin
 ## 🚀 Cara Pakai
 Clone repository ini:
 ```bash
-git clone https://github.com/d4nughst999/d4nughst999.git
+$ git clone https://github.com/d4nughst999/d4nughst999.git
 
-cd d4nughst999
+$ cd d4nughst999
 
 Kasih permission dan jalankan:
 
-chmod +x anonghost.sh
-./anonghost.sh
+$ chmod +x anonghost.sh
+
+$ ./anonghost.sh
 
 Lalu buka hasil HTML:
 
-termux-open multisection.html
-
-
----
+$ termux-open multisection.html
 
 
 
 
----
 
-👨‍💻 Author
+
+
+
+## 👨‍💻 Author
 
 d4nughst999
 
@@ -45,6 +45,6 @@ Tools: Bash + HTML + CSS
 
 
 
----
 
-🔥 Jangan lupa kasih ⭐ Star repo ini kalau bermanfaat!
+
+## 🔥 Jangan lupa kasih ⭐ Star repo ini kalau bermanfaat!
